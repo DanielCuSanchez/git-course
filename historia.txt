@@ -1,9 +1,2 @@
 Hola mundo
-
-Soy Daniel Cu, soy desarrollador web y emprendedor! 
-
-Estudio en itesm pero es más rapido aprender en platzi! 
-
-Actualmente soy CEO de Alternet. :) 
-
-Hoy hablaremos de su vida y su obra maestra! 
+Hoy hablaremos de git como ser efectivo trabajando en control de versiones! 
