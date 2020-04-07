@@ -1,4 +1,13 @@
 body {
-  color: blue;
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
   text-align: center;
+}
+#contenedor {
+  text-align: left;
+  padding: 1.5rem;
+  width: 70%;
+  border: 1px solid gray;
+  margin: 0 auto;
 }
