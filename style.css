@@ -25,16 +25,21 @@ body {
 .body-blog {
   text-align: left;
   padding: 0.5rem;
-  height: 60%;
+  height: 40%;
 }
 
 .footer {
   background-color: #4e4e9c;
   color: white;
   width: initial;
-  height: 20%;
+  height: 40%;
   padding: .5rem;
   display: flex;
   align-items: center;  
   justify-content: center;
+  flex-direction: column;
+}
+.footer img{
+    width: 60%;
+    height: 80%;
 }
