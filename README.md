@@ -25,4 +25,4 @@ Flujo de trabajo
 - Trabajo con alias y terminal
 
 
-Link de proyecto: https://danielcusanchez.github.io/git-course/
+> link de proyecto: https://danielcusanchez.github.io/git-course/link de proyecto: https://danielcusanchez.github.io/git-course/
