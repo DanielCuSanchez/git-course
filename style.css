@@ -1,20 +1,40 @@
 body {
-  color: black;
-  font-family: "Courier New", Courier, monospace;
-  font-size: large;
-  text-align: center;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  font-family: Arial, Helvetica, sans-serif;
 }
-#contenedor {
-  text-align: left;
-  padding: 1.5rem;
+
+.container {
+  
+  background-color: white;
   width: 70%;
-  border: 1px solid gray;
-  margin: 0 auto;
+  height: 100vh;
+  margin: 5rem auto;
 }
-#cabecera {
+.cabecera {
+  background-color: #4e4e9c;
+  color: white;
+  padding: .5rem;
+  height: 20%;
+}
+.body-blog {
   text-align: left;
-  width: 85%;
-  padding: 0 1rem;
-  margin: 0 auto;
-  border: 2px solid blueviolet;
+  padding: 0.5rem;
+  height: 60%;
+}
+
+.footer {
+  background-color: #4e4e9c;
+  color: white;
+  width: initial;
+  height: 20%;
+  padding: .5rem;
+  display: flex;
+  align-items: center;  
+  justify-content: center;
 }
